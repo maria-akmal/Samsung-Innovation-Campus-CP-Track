@@ -1,0 +1,8 @@
+numbers = input("Enter numbers separated by space: ").split()
+numbers = (int(num) for num in numbers)
+k=int(input("Enter how many max values you want (k):"))
+sorted_numbers = sorted(numbers, reverse=True)
+sorted_tuple = tuple(sorted_numbers)
+print(sorted_tuple)
+top_k = tuple(sorted_numbers[:k])
+print("Top", k, "values:", top_k)
