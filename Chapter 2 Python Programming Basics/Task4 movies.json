@@ -1,0 +1,9 @@
+[
+    {"title": "Movie 1", "year": 2020, "genre": "Action"},
+    {"title": "Movie 2", "year": 2021, "genre": "Comedy"},
+    {"title": "Movie 3", "year": 2019, "genre": "Drama"},
+    {"title": "Movie 4", "year": 2022, "genre": "Sci-Fi"},
+    {"title": "Movie 5", "year": 2023, "genre": "Romance"},
+    {"title": "Movie 6", "year": "2025", "genre": "drama"},
+    {"title": "jhjh", "year": "2025", "genre": "hfuh"},
+    {"title": "jkj", "year": "2025", "genre": "ndj"}]
